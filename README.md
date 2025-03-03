@@ -91,3 +91,17 @@
 - Detailed documentation with clear instructions.
 - Successful testing of all endpoints.
 
+
+# Express Assignment
+
+This project is a demonstration of an Express.js RESTful API with routes, middleware, and controllers.
+
+## Setup Instructions
+
+1. **Install Node.js:**
+   - Use NVM or any preferred method to install Node.js.
+
+2. **Clone the Repository:**
+   ```bash
+   git clone <repository-url>
+   cd express-assignment
