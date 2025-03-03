@@ -1,0 +1,24 @@
+{
+  "name": "week-2-express-js-fundamentals-assignment-kevinkirwa",
+  "version": "1.0.0",
+  "description": "**Week 2: Express.js Fundamentals Assignment**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-Full-Stack-Development-MERN/week-2-express-js-fundamentals-assignment-Kevinkirwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PLP-Full-Stack-Development-MERN/week-2-express-js-fundamentals-assignment-Kevinkirwa/issues"
+  },
+  "homepage": "https://github.com/PLP-Full-Stack-Development-MERN/week-2-express-js-fundamentals-assignment-Kevinkirwa#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
